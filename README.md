@@ -44,7 +44,7 @@ An interactive Python program that answers one chess question: given 1 white pie
 **Files:** `.ipynb` notebook, README with usage instructions and screenshot
 
 ## Well-known Tools & Skills
-`SQL (GoogleSQL / BigQuery)` · `Power BI` · `DAX` · `Google Sheets`
+`SQL (GoogleSQL / BigQuery)` · `Power BI` · `DAX` · `Google Sheets` · `Python`
 
 ---
 *This portfolio is a work in progress and will be updated as I complete new projects.*
