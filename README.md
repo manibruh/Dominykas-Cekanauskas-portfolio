@@ -19,6 +19,18 @@ A collection of SQL queries demonstrating progressively advanced techniques:
 
 **Files:** `.sql` scripts, output screenshots
 
+### 3. [Fast Food Marketing Campaign A/B Test](https://github.com/manibruh/Dominykas-Cekanauskas-portfolio/tree/main/AB%20testing%20example%20-%20Fast%20Food%20Marketing%20Campaign)
+
+A statistical comparison of three promotions for a new menu item across 137 stores, to decide which one to roll out chain-wide, including:
+
+- Aggregation of weekly sales to one row per store, so observations are independent
+- Pairwise Welch's t-tests implemented entirely in SQL, with 99% confidence intervals
+- 99% confidence threshold to control false-positive risk across three comparisons
+- Finding: Promotion 1 significantly outperforms Promotion 2 (+$10.8K per store per week); Promotion 1 vs 3 is inconclusive
+- Full report and presentation with a rollout recommendation
+
+**Files:** `.sql` scripts, charts, report and presentation links
+
 ## Well-known Tools & Skills
 `SQL (GoogleSQL / BigQuery)` · `Power BI` · `DAX` · `Google Sheets`
 
