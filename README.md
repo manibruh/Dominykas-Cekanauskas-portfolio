@@ -19,7 +19,7 @@ A collection of SQL queries demonstrating progressively advanced techniques:
 
 **Files:** `.sql` scripts, output screenshots
 
-### 3. [Fast Food Marketing Campaign A/B Test](https://github.com/manibruh/Dominykas-Cekanauskas-portfolio/tree/main/AB%20testing%20example%20-%20Fast%20Food%20Marketing%20Campaign)
+### 3. [Fast Food Marketing Campaign A/B Test](./AB%20testing%20example%20-%20Fast%20Food%20Marketing%20Campaign)
 
 A statistical comparison of three promotions for a new menu item across 137 stores, to decide which one to roll out chain-wide, including:
 
@@ -30,6 +30,18 @@ A statistical comparison of three promotions for a new menu item across 137 stor
 - Full report and presentation with a rollout recommendation
 
 **Files:** `.sql` scripts, charts, report and presentation links
+
+### 4. [Chess Capture Checker (Python)](link-to-repo)
+
+An interactive Python program that answers one chess question: given 1 white piece and up to 16 black pieces, which black pieces can the white piece capture? Includes:
+
+- Two input modes: manual entry or random generation of a full starting position
+- Input validation with clear error messages (unknown pieces, occupied squares, pawns on the first/last rank, duplicate king)
+- Capture detection built on the `python-chess` library, correctly handling blocked paths and pawn diagonal captures
+- Visual SVG board highlighting capturable pieces and every square the white piece attacks if nothing blocked it
+- Runs in Google Colab or VS Code (Jupyter), with a text summary of capturable pieces
+
+**Files:** `.ipynb` notebook, README with usage instructions and screenshot
 
 ## Well-known Tools & Skills
 `SQL (GoogleSQL / BigQuery)` · `Power BI` · `DAX` · `Google Sheets`
