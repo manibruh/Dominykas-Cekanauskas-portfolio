@@ -31,7 +31,7 @@ A statistical comparison of three promotions for a new menu item across 137 stor
 
 **Files:** `.sql` scripts, charts, report and presentation links
 
-### 4. [Chess Capture Checker (Python)](Python example - A Chess Question)
+### 4. [Chess Capture Checker (Python)](./Python%20example%20-%20A%20Chess%20Question)
 
 An interactive Python program that answers one chess question: given 1 white piece and up to 16 black pieces, which black pieces can the white piece capture? Includes:
 
