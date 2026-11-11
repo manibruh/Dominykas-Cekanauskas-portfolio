@@ -11,7 +11,7 @@ Source: [IBM Watson Analytics Marketing Campaign dataset](https://www.kaggle.com
 | Column | Description |
 |---|---|
 | market_id | Market identifier |
-| market_siza | Small / Medium / Large |
+| market_size | Small / Medium / Large |
 | location_id | Store identifier |
 | age_of_store | Age of store in years |
 | promotion | Promotion assigned to the store (1, 2, or 3) |
